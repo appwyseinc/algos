@@ -1,4 +1,4 @@
-package com.backtracking;
+package dynamicprogramming.backtracking;
 
 import java.util.ArrayList;
 import java.util.HashMap;
